@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "dgserver1",
+    "username": "DG_PLAYZ00",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "DEVANSH0099"
+      "password": "DEVANSH1122"
     },
     "anti-afk": {
       "enabled": true,
